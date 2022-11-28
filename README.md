@@ -1,3 +1,4 @@
+![logo](https://github.com/Simbaa815/Simbaa815/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rohan Balgotra</h1>
 <h3 align="center">Improving my DSA skills.</h3>
 
