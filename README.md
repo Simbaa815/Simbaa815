@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Balgotra</h1>
 <h3 align="center">Improving my DSA skills.</h3>
 
-- 🌱 I’m currently learning **Dsa, Javascript**
+- 🌱 I’m currently learning **DSA, Javascript**
 
 - 💬 Ask me about **c, c++, html, css**
 
