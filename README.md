@@ -1,4 +1,5 @@
 ![logo](https://github.com/Simbaa815/Simbaa815/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Rohan Balgotra</h1>
 <h3 align="center">Improving my DSA skills.</h3>
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohan-balgotra-b6766a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohan-balgotra-b6766a208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohan-balgotra-b6766a208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohan-balgotra-b6766a208" height="30" width="40" /></a>
 <a href="https://instagram.com/rb_balgotra_815" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rb_balgotra_815" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/simbaa815" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="simbaa815" height="30" width="40" /></a>
 </p>
