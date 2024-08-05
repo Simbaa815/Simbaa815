@@ -5,15 +5,13 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **DSA & Development**
+- 🔭 I’m currently working on **HandsOn practice**
 
-- 🌱 I’m currently learning **C, C++, DSA, Development**
+- 🌱 I’m currently learning **Devops tools**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I’m looking to collaborate on **DevOps**🥑 and **Open-Source**
 
-- 💬 Ask me about **C, C++, DSA**
-
-- 📫 How to reach me **rohanbalgotra12345@gmail.com**
+<!-- 💬 Ask me about C, C++, DSA -->
 
 - ⚡ Fun fact **I am funny😂**
 
